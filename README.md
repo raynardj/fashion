@@ -3,6 +3,10 @@
 ## Fashion application of Deep Learning
 
 
-* [ ] Team's skillset/capacity
+* Team's skillset/capacity
 
-* [ ] Products
+* Products
+
+    * Body shape classifier
+    
+    * Cloth similarity search engine
